@@ -1,0 +1,4 @@
+﻿  test_codeError3.c
+C:\Users\User\source\repos\test_codeError\test_codeError\test_codeError3.c(49,24): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\User\source\repos\test_codeError\test_codeError\test_codeError3.c(35,17): warning C4101: 'ch': unreferenced local variable
+  test_codeError.vcxproj -> C:\Users\User\source\repos\test_codeError\x64\Debug\test_codeError.exe
